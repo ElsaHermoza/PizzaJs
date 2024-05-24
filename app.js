@@ -11,6 +11,7 @@ let amasar = "mezclar ";
 function preparacion(){
 
     console.log(`Preparando masa: ${amasar + recetaMasa}`);
+    
    
 }
 
